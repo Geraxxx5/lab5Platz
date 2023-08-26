@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab5GabrielPineda</string>
+    <string name="titulo_principal">Food Court</string>
+    <string name="subtitulo_destacados">Destacados</string>
+    <string name="subtitulo_servicios_recursos">Servicios y Recursos</string>
+    <string name="title_activity_configuracion">ConfiguracionActivity</string>
+    <string name="top_configuracion_texto">Configuracion</string>
+</resources>
